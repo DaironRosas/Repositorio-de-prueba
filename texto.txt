@@ -1,3 +1,6 @@
 espero estar haciendo las cosas bien
+aun no encuentro la manera de poder enviar este arcio al repositorio remoto
+
+
 
 
